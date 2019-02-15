@@ -12,7 +12,9 @@ Install composer
 ```
 
 
-open the project folder and hit ```sh composer install ``` to install all dependencies
+open the project folder and hit 
+``` composer install ``` 
+to install all dependencies
 
 ### Dependencies used
 
