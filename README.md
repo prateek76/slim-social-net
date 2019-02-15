@@ -31,7 +31,7 @@ to install all dependencies
 * CSRF middleware
 * Middleware for small checks
 
-#### Slim is PHP MVC model using views, model and controllers
+#### Slim is PHP MVC Framework https://docs.slimframework.com/
 
 ## Authors
 
