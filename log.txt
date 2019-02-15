@@ -1,0 +1,295 @@
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>composer
+   ______
+  / ____/___  ____ ___  ____  ____  ________  _____
+ / /   / __ \/ __ `__ \/ __ \/ __ \/ ___/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ (__  )  __/ /
+\____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
+                    /_/
+Composer version 1.5.2 2017-09-11 16:59:25
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help                     Display this help message
+  -q, --quiet                    Do not output any message
+  -V, --version                  Display this application version
+      --ansi                     Force ANSI output
+      --no-ansi                  Disable ANSI output
+  -n, --no-interaction           Do not ask any interactive question
+      --profile                  Display timing and memory usage information
+      --no-plugins               Whether to disable plugins.
+  -d, --working-dir=WORKING-DIR  If specified, use the given directory as working directory.
+  -v|vv|vvv, --verbose           Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  about           Shows the short information about Composer.
+  archive         Creates an archive of this composer package.
+  browse          Opens the package's repository URL or homepage in your browser.
+  clear-cache     Clears composer's internal package cache.
+  clearcache      Clears composer's internal package cache.
+  config          Sets config options.
+  create-project  Creates new project from a package into given directory.
+  depends         Shows which packages cause the given package to be installed.
+  diagnose        Diagnoses the system to identify common errors.
+  dump-autoload   Dumps the autoloader.
+  dumpautoload    Dumps the autoloader.
+  exec            Executes a vendored binary/script.
+  global          Allows running commands in the global composer dir ($COMPOSER_HOME).
+  help            Displays help for a command
+  home            Opens the package's repository URL or homepage in your browser.
+  info            Shows information about packages.
+  init            Creates a basic composer.json file in current directory.
+  install         Installs the project dependencies from the composer.lock file if present, or falls back on the composer.json.
+  licenses        Shows information about licenses of dependencies.
+  list            Lists commands
+  outdated        Shows a list of installed packages that have updates available, including their latest version.
+  prohibits       Shows which packages prevent the given package from being installed.
+  remove          Removes a package from the require or require-dev.
+  require         Adds required packages to your composer.json and installs them.
+  run-script      Runs the scripts defined in composer.json.
+  search          Searches for packages.
+  self-update     Updates composer.phar to the latest version.
+  selfupdate      Updates composer.phar to the latest version.
+  show            Shows information about packages.
+  status          Shows a list of locally modified packages.
+  suggests        Shows package suggestions.
+  update          Upgrades your dependencies to the latest version according to composer.json, and updates the composer.lock file.
+  upgrade         Upgrades your dependencies to the latest version according to composer.json, and updates the composer.lock file.
+  validate        Validates a composer.json and composer.lock.
+  why             Shows which packages cause the given package to be installed.
+  why-not         Shows which packages prevent the given package from being installed.
+
+C:\WINDOWS\system32>cd ..
+
+C:\Windows>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd PHP WEBD
+
+C:\xampp\htdocs\PHP WEBD>cd Authentication
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar
+   ______
+  / ____/___  ____ ___  ____  ____  ________  _____
+ / /   / __ \/ __ `__ \/ __ \/ __ \/ ___/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ (__  )  __/ /
+\____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
+                    /_/
+Composer version 1.6-dev (edece864e7e4c668dcad6601df70777882d22116) 2017-09-19 08:42:10
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help                     Display this help message
+  -q, --quiet                    Do not output any message
+  -V, --version                  Display this application version
+      --ansi                     Force ANSI output
+      --no-ansi                  Disable ANSI output
+  -n, --no-interaction           Do not ask any interactive question
+      --profile                  Display timing and memory usage information
+      --no-plugins               Whether to disable plugins.
+  -d, --working-dir=WORKING-DIR  If specified, use the given directory as working directory.
+  -v|vv|vvv, --verbose           Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  about           Shows the short information about Composer.
+  archive         Creates an archive of this composer package.
+  browse          Opens the package's repository URL or homepage in your browser.
+  clear-cache     Clears composer's internal package cache.
+  clearcache      Clears composer's internal package cache.
+  config          Sets config options.
+  create-project  Creates new project from a package into given directory.
+  depends         Shows which packages cause the given package to be installed.
+  diagnose        Diagnoses the system to identify common errors.
+  dump-autoload   Dumps the autoloader.
+  dumpautoload    Dumps the autoloader.
+  exec            Executes a vendored binary/script.
+  global          Allows running commands in the global composer dir ($COMPOSER_HOME).
+  help            Displays help for a command
+  home            Opens the package's repository URL or homepage in your browser.
+  info            Shows information about packages.
+  init            Creates a basic composer.json file in current directory.
+  install         Installs the project dependencies from the composer.lock file if present, or falls back on the composer.json.
+  licenses        Shows information about licenses of dependencies.
+  list            Lists commands
+  outdated        Shows a list of installed packages that have updates available, including their latest version.
+  prohibits       Shows which packages prevent the given package from being installed.
+  remove          Removes a package from the require or require-dev.
+  require         Adds required packages to your composer.json and installs them.
+  run-script      Runs the scripts defined in composer.json.
+  search          Searches for packages.
+  self-update     Updates composer.phar to the latest version.
+  selfupdate      Updates composer.phar to the latest version.
+  show            Shows information about packages.
+  status          Shows a list of locally modified packages.
+  suggests        Shows package suggestions.
+  update          Upgrades your dependencies to the latest version according to composer.json, and updates the composer.lock file.
+  upgrade         Upgrades your dependencies to the latest version according to composer.json, and updates the composer.lock file.
+  validate        Validates a composer.json and composer.lock.
+  why             Shows which packages cause the given package to be installed.
+  why-not         Shows which packages prevent the given package from being installed.
+
+C:\xampp\htdocs\PHP WEBD\Authentication>cd Authentication slim/slim
+The system cannot find the path specified.
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require slim/slim
+
+
+  [Composer\Downloader\TransportException]
+  The "https://packagist.org/packages.json" file could not be downloaded: failed to open stream: No c
+  onnection could be made because the target machine actively refused it.
+
+
+require [--dev] [--prefer-source] [--prefer-dist] [--no-progress] [--no-suggest] [--no-update] [--no-scripts] [--update-no-dev] [--update-with-dependencies] [--ignore-platform-reqs] [--prefer-stable] [--prefer-lowest] [--sort-packages] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--] [<packages>]...
+
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require slim/slim
+Using version ^3.8 for slim/slim
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 6 installs, 0 updates, 0 removals
+  - Installing psr/container (1.0.0): Downloading (100%)
+  - Installing container-interop/container-interop (1.2.0): Downloading (100%)
+  - Installing nikic/fast-route (v1.2.0): Downloading (100%)
+  - Installing psr/http-message (1.0.1): Downloading (100%)
+  - Installing pimple/pimple (v3.2.2): Downloading (100%)
+  - Installing slim/slim (3.8.1): Downloading (100%)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer require slim/views
+Could not open input file: composer
+
+C:\xampp\htdocs\PHP WEBD\Authentication>$ php composer require slim/views
+'$' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require slim/views
+Using version ^0.1.3 for slim/views
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing slim/views (0.1.3): Downloading (100%)
+slim/views suggests installing smarty/smarty (Smarty templating system)
+slim/views suggests installing twig/twig (Twig templating system)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require twig/twig
+Using version ^2.4 for twig/twig
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 2 installs, 0 updates, 0 removals
+  - Installing symfony/polyfill-mbstring (v1.6.0): Downloading (100%)
+  - Installing twig/twig (v2.4.4): Downloading (100%)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require phpmailer/phpmailer
+Using version ^6.0 for phpmailer/phpmailer
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing phpmailer/phpmailer (v6.0.1): Downloading (100%)
+phpmailer/phpmailer suggests installing psr/log (For optional PSR-3 debug logging)
+phpmailer/phpmailer suggests installing league/oauth2-google (Needed for Google XOAUTH2 authentication)
+phpmailer/phpmailer suggests installing hayageek/oauth2-yahoo (Needed for Yahoo XOAUTH2 authentication)
+phpmailer/phpmailer suggests installing stevenmaguire/oauth2-microsoft (Needed for Microsoft XOAUTH2 authentication)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require hassankhan/config
+Using version ^0.10.0 for hassankhan/config
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing hassankhan/config (0.10.0): Downloading (100%)
+hassankhan/config suggests installing symfony/yaml (~2.5)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require illuminate/database
+Using version ^5.5 for illuminate/database
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 8 installs, 0 updates, 0 removals
+  - Installing symfony/translation (v3.3.10): Downloading (100%)
+  - Installing nesbot/carbon (1.22.1): Downloading (100%)
+  - Installing psr/simple-cache (1.0.0): Downloading (100%)
+  - Installing illuminate/contracts (v5.5.17): Downloading (100%)
+  - Installing doctrine/inflector (v1.2.0): Downloading (100%)
+  - Installing illuminate/support (v5.5.17): Downloading (100%)
+  - Installing illuminate/container (v5.5.17): Downloading (100%)
+  - Installing illuminate/database (v5.5.17): Downloading (100%)
+symfony/translation suggests installing symfony/config ()
+symfony/translation suggests installing symfony/yaml ()
+symfony/translation suggests installing psr/log (To use logging capability in translator)
+illuminate/support suggests installing illuminate/filesystem (Required to use the composer class (5.2.*).)
+illuminate/support suggests installing symfony/process (Required to use the composer class (~3.3).)
+illuminate/support suggests installing symfony/var-dumper (Required to use the dd function (~3.3).)
+illuminate/database suggests installing doctrine/dbal (Required to rename columns and drop SQLite columns (~2.5).)
+illuminate/database suggests installing fzaninotto/faker (Required to use the eloquent factory builder (~1.4).)
+illuminate/database suggests installing illuminate/console (Required to use the database commands (5.5.*).)
+illuminate/database suggests installing illuminate/events (Required to use the observers with Eloquent (5.5.*).)
+illuminate/database suggests installing illuminate/filesystem (Required to use the migrations (5.5.*).)
+illuminate/database suggests installing illuminate/pagination (Required to paginate the result set (5.5.*).)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require alexgarrett/violin
+Using version ^2.2 for alexgarrett/violin
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing alexgarrett/violin (2.2.2): Downloading (100%)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar require ircmaxell/random-lib
+Using version ^1.2 for ircmaxell/random-lib
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 2 installs, 0 updates, 0 removals
+  - Installing ircmaxell/security-lib (v1.1.0): Downloading (100%)
+  - Installing ircmaxell/random-lib (v1.2.0): Downloading (100%)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>
+C:\xampp\htdocs\PHP WEBD\Authentication>php composer.phar update
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 0 installs, 4 updates, 4 removals
+  - Removing pimple/pimple (v3.2.2)
+  - Removing psr/http-message (1.0.1)
+  - Removing nikic/fast-route (v1.2.0)
+  - Removing container-interop/container-interop (1.2.0)
+  - Updating slim/slim (3.8.1 => 2.6.3): Downloading (100%)
+  - Updating twig/twig (v2.4.4 => v1.35.0): Downloading (100%)
+  - Updating phpmailer/phpmailer (v6.0.1 => v5.2.25): Downloading (100%)
+  - Updating hassankhan/config (0.10.0 => 0.8.2): Downloading (100%)
+Writing lock file
+Generating autoload files
+
+C:\xampp\htdocs\PHP WEBD\Authentication>
+C:\xampp\htdocs\PHP WEBD\Authentication>
+C:\xampp\htdocs\PHP WEBD\Authentication>
+C:\xampp\htdocs\PHP WEBD\Authentication>

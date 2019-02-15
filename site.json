@@ -1,0 +1,333 @@
+[
+{
+    "type": "header",
+    "version": "4.7.0",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "site"
+},
+{
+    "type": "table",
+    "name": "friends_table",
+    "database": "site",
+    "data": 
+[
+{
+    "id": "39",
+    "user_id": "89",
+    "friend_id": "90",
+    "status": "1",
+    "created_at": "2017-12-27 03:34:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "id": "40",
+    "user_id": "89",
+    "friend_id": "87",
+    "status": "1",
+    "created_at": "2017-12-27 03:32:50",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "id": "43",
+    "user_id": "90",
+    "friend_id": "87",
+    "status": "1",
+    "created_at": "2017-12-27 03:34:23",
+    "updated_at": "0000-00-00 00:00:00"
+}
+]
+
+}
+,{
+    "type": "table",
+    "name": "posts",
+    "database": "site",
+    "data": 
+[
+{
+    "post_id": "51",
+    "user_id": "87",
+    "parent_id": null,
+    "post_username": "prateek",
+    "post": "Introduction to Linked List\r\nLinked List vs Array\r\nLinked List Insertion\r\nLinked List Deletion (Deleting a given key)\r\nLinked List Deletion (Deleting a key at given position)\r\nFind Length of a Linked List (Iterative and Recursive)\r\nSearch an element in a Linked List (Iterative and Recursive)\r\nSwap nodes in a linked list without swapping data\r\nWrite a function to get Nth node in a Linked List\r\nPrint the middle of a given linked list\r\nNth node from the end of a Linked List\r\nWrite a function to delete a Linked List\r\nWrite a function that counts the number of times a given int occurs in a Linked List\r\nReverse a linked list\r\nDetect loop in a linked list\r\nMerge two sorted linked lists\r\nGeneric Linked List in C\r\nFunction to check if a singly linked list is palindrome\r\nIntersection point of two Linked Lists.\r\nRecursive function to print reverse of a Linked List",
+    "created_at": "2017-12-29 14:11:31",
+    "updated_at": "2017-12-29 14:11:31"
+},
+{
+    "post_id": "52",
+    "user_id": "90",
+    "parent_id": null,
+    "post_username": "ronaldo",
+    "post": "<!-- View stored in resources\/views\/welcome.twig -->\r\n{% extends 'layouts\/main.twig' %}\r\n\r\n{% block main %}\r\n    <h1>Hello, {{ name }}<\/h1>\r\n{% endblock %}\r\n\r\n{% block sidebar %}\r\n    <h3>Latest posts<\/h3>\r\n    <ul>\r\n        {% for item in items %}\r\n            <li>{{ item.post_title }}<\/li>\r\n        {% endfor %}\r\n    <\/ul>\r\n{% endblock %}",
+    "created_at": "2017-12-29 14:13:41",
+    "updated_at": "2017-12-29 14:13:41"
+},
+{
+    "post_id": "53",
+    "user_id": "90",
+    "parent_id": "51",
+    "post_username": "ronaldo",
+    "post": "sup bro??\r\n<a><\/a>",
+    "created_at": "2017-12-29 14:13:53",
+    "updated_at": "2017-12-29 14:13:53"
+},
+{
+    "post_id": "54",
+    "user_id": "87",
+    "parent_id": "51",
+    "post_username": "prateek",
+    "post": "kya bhosdik",
+    "created_at": "2017-12-29 14:14:17",
+    "updated_at": "2017-12-29 14:14:17"
+},
+{
+    "post_id": "55",
+    "user_id": "87",
+    "parent_id": "52",
+    "post_username": "prateek",
+    "post": "what's this??",
+    "created_at": "2017-12-29 14:15:00",
+    "updated_at": "2017-12-29 14:15:00"
+},
+{
+    "post_id": "56",
+    "user_id": "87",
+    "parent_id": "51",
+    "post_username": "prateek",
+    "post": "hala madrid",
+    "created_at": "2017-12-29 14:44:35",
+    "updated_at": "2017-12-29 14:44:35"
+},
+{
+    "post_id": "57",
+    "user_id": "87",
+    "parent_id": null,
+    "post_username": "prateek",
+    "post": "\r\nWith only two more matches remaining on this tour, can Windies do something out of the box and turn things around? If they don't, just like the Tests and ODIs, they'll end up losing the T20I series too. Well, they'll hope this last match of 2017 brings an end to their misery. What has 2018 got in store for them? Can they start off their new year with a bang and go back home with a wide smile on their face? Let's wait and watch. For now, that's all from our side. Hope you guys enjoyed our coverage. The second T20I is to be played on the first day of 2018 at Bay Oval in Mount Maunganui. So, do join us of that game for all the action. See you later.\r\nSouthee: It was a pretty good effort. The guys hung in there and finished it well. Then the bowling and fielding was excellent. The last over gave us the momentum going into field. That's the beauty of bowling second, we knew what to bowl on the surface. It was brilliant on how they (Rance and Kitchen) started. Glenn contributed with the bat and Rance to come in and pick two wickets, brilliant. I enjoyed it (the captaincy). Takes your mind of what you need to do.\r\nBrathwaite: We had good momentum going into the last over. But that got away. Credit to them. They got the momentum from there and carried it into the field. It (bowling) is still our strong suit, but it happens. He (Williams) is the best bowler in the death. We have a lot to improve on. 20 runs in one over in a T20 game is massive, even 5 runs can change a game. Unfortunately, we could not get going with the bat. If we had given 10 runs less, we would have carried the momentum into our batting. It is not possible to change the skill set in two-three days. If I had held on to Munro early, that would have changed things. You have good days and bad days.\r\nGlenn Phillips, Man of the Match: It was a little bit tough early on. The pitch was slow than what we expected. Credit to the Windies. Me and Munro went too hard but then reined ourselves in. When you are 6 off 12, it gets tough, but Munro told me to keep going. Honestly, I didn't really know where it went and hoped that the fine leg fielder would take it, but once I saw the ball I went for it (taking about Gayle's catch). We had a pretty complete performance, but you still have to go and critic yourself. I could have batted better in the first six. Batting at three is basically the same as opening.\r\nComing back to this match, the visitors did really well to bounce back in the game after that onslaught by Munro and Phillips but the last over by Kesrick Williams proved to a spoiler for them. Due to that bonus over, Kiwis went into the dressing room soaring high on confidence. That reflected in their fielding as they grabbed two blinders to send both West Indian openers back to the pavilion. The run chase was never on and the visitors kept throwing away wickets without showing a hunger to win. Eventually, they were outclassed and humbled by the Black Caps.\r\nAnother easy walk in the park for New Zealand. It's the sixth straight win for Kiwis against the Windies in the past one month. To be honest, we thought that the champions of T20 cricket would put up a fight in their favourite format at least, but yet again they have let themselves down with another mediocre performance. That has been the story of this entire tour, isn't it?",
+    "created_at": "2017-12-29 15:06:38",
+    "updated_at": "2017-12-29 15:06:38"
+},
+{
+    "post_id": "58",
+    "user_id": "89",
+    "parent_id": null,
+    "post_username": "logo",
+    "post": "logo is live",
+    "created_at": "2017-12-30 13:41:07",
+    "updated_at": "2017-12-30 13:41:07"
+},
+{
+    "post_id": "59",
+    "user_id": "87",
+    "parent_id": "58",
+    "post_username": "prateek",
+    "post": "logo lol",
+    "created_at": "2017-12-30 13:41:34",
+    "updated_at": "2017-12-30 13:41:34"
+},
+{
+    "post_id": "60",
+    "user_id": "87",
+    "parent_id": null,
+    "post_username": "prateek",
+    "post": "www.google.com",
+    "created_at": "2017-12-30 19:37:36",
+    "updated_at": "2017-12-30 19:37:36"
+},
+{
+    "post_id": "61",
+    "user_id": "87",
+    "parent_id": null,
+    "post_username": "prateek",
+    "post": "https:\/\/stackoverflow.com\/questions\/35161380\/how-to-pass-a-php-variable-to-twig-template",
+    "created_at": "2017-12-30 19:38:16",
+    "updated_at": "2017-12-30 19:38:16"
+},
+{
+    "post_id": "62",
+    "user_id": "87",
+    "parent_id": null,
+    "post_username": "prateek",
+    "post": "https:\/\/stackoverflow.com",
+    "created_at": "2017-12-30 19:46:19",
+    "updated_at": "2017-12-30 19:46:19"
+}
+]
+
+}
+,{
+    "type": "table",
+    "name": "users",
+    "database": "site",
+    "data": 
+[
+{
+    "id": "85",
+    "email": "prateek7672168@gmail.com",
+    "username": "jkb",
+    "first_name": "jk",
+    "last_name": "b",
+    "password": "$2y$10$QWppZNooz8CKTbgwNcSeQ.iqqcHQ9yxw1PfBr3166Te1P0KJRXDDu",
+    "active": "1",
+    "active_hash": "",
+    "recover_hash": "",
+    "remember_identifier": "",
+    "remember_token": "",
+    "created_at": "2017-12-26 22:41:54",
+    "updated_at": "2017-12-26 18:11:54"
+},
+{
+    "id": "86",
+    "email": "abc@abc.com",
+    "username": "abc",
+    "first_name": "ab",
+    "last_name": "c",
+    "password": "$2y$10$2SzlajsqIDNqSQQO7zPAG.x1dTrVN0nWoFbuou3xh6.BVxzp2ip1G",
+    "active": "1",
+    "active_hash": "",
+    "recover_hash": "",
+    "remember_identifier": "",
+    "remember_token": "",
+    "created_at": "2017-12-15 16:43:02",
+    "updated_at": "2017-12-14 14:07:59"
+},
+{
+    "id": "87",
+    "email": "iec2017029@iiita.ac.in",
+    "username": "prateek",
+    "first_name": "prateek",
+    "last_name": "prateek",
+    "password": "$2y$10$MBga9T\/9xM.koyWjgBCpoeV9jAb.AUvmiNGo8EwNkkaNegUsbP.Ei",
+    "active": "1",
+    "active_hash": "",
+    "recover_hash": "",
+    "remember_identifier": "",
+    "remember_token": "",
+    "created_at": "2017-12-25 05:38:07",
+    "updated_at": "2017-12-24 23:14:12"
+},
+{
+    "id": "88",
+    "email": "pogo@pogo.com",
+    "username": "pogp",
+    "first_name": "pogo",
+    "last_name": "p",
+    "password": "$2y$10$SIf0Piz4NQmBFLbaSkRNZORwC.3gT7cabiYi.wmEYN4Z610MgqZcS",
+    "active": "1",
+    "active_hash": "",
+    "recover_hash": "",
+    "remember_identifier": "",
+    "remember_token": "",
+    "created_at": "2017-12-15 17:31:49",
+    "updated_at": "2017-12-15 13:00:07"
+},
+{
+    "id": "89",
+    "email": "logo@logo.com",
+    "username": "logo",
+    "first_name": "logo",
+    "last_name": "log",
+    "password": "$2y$10$11kdUUZrIUSP2cdxZiO1jOpqDTuSJBaw9F8Wcnk5JVAqo9lN11EoC",
+    "active": "1",
+    "active_hash": "",
+    "recover_hash": "",
+    "remember_identifier": "",
+    "remember_token": "",
+    "created_at": "2017-12-15 17:31:56",
+    "updated_at": "2017-12-15 13:00:30"
+},
+{
+    "id": "90",
+    "email": "ronaldo@ronaldo.com",
+    "username": "ronaldo",
+    "first_name": "cristiano",
+    "last_name": "ronaldo",
+    "password": "$2y$10$VNXKbs.TGCXpd2\/ZsYfakOamNJfYDyf.G9.uMOXZdqtsUh.Dt1KeK",
+    "active": "1",
+    "active_hash": "",
+    "recover_hash": "",
+    "remember_identifier": "",
+    "remember_token": "",
+    "created_at": "2017-12-15 17:32:06",
+    "updated_at": "2017-12-15 13:00:50"
+},
+{
+    "id": "91",
+    "email": "ppp@ppp.com",
+    "username": "ppp",
+    "first_name": "",
+    "last_name": "",
+    "password": "$2y$10$Ecma7ue3mHnFt5pLlp5.Su8\/.7ZhqVVQs8DEMpqNkqNsL8S\/zpZJO",
+    "active": "1",
+    "active_hash": "",
+    "recover_hash": "",
+    "remember_identifier": "",
+    "remember_token": "",
+    "created_at": "2017-12-16 00:36:57",
+    "updated_at": "2017-12-15 20:06:33"
+}
+]
+
+}
+,{
+    "type": "table",
+    "name": "users_permissions",
+    "database": "site",
+    "data": 
+[
+{
+    "id": "1",
+    "user_id": "85",
+    "is_admin": "1",
+    "created_at": "2017-12-13 20:07:28",
+    "updated_at": "2017-12-13 13:58:10"
+},
+{
+    "id": "2",
+    "user_id": "86",
+    "is_admin": "0",
+    "created_at": "2017-12-14 14:07:59",
+    "updated_at": "2017-12-14 14:07:59"
+},
+{
+    "id": "3",
+    "user_id": "87",
+    "is_admin": "1",
+    "created_at": "2017-12-25 02:07:33",
+    "updated_at": "2017-12-14 14:08:57"
+},
+{
+    "id": "4",
+    "user_id": "88",
+    "is_admin": "0",
+    "created_at": "2017-12-15 13:00:07",
+    "updated_at": "2017-12-15 13:00:07"
+},
+{
+    "id": "5",
+    "user_id": "89",
+    "is_admin": "0",
+    "created_at": "2017-12-15 13:00:30",
+    "updated_at": "2017-12-15 13:00:30"
+},
+{
+    "id": "6",
+    "user_id": "90",
+    "is_admin": "0",
+    "created_at": "2017-12-15 13:00:50",
+    "updated_at": "2017-12-15 13:00:50"
+},
+{
+    "id": "7",
+    "user_id": "91",
+    "is_admin": "0",
+    "created_at": "2017-12-15 20:06:33",
+    "updated_at": "2017-12-15 20:06:33"
+}
+]
+
+}
+]
